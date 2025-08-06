@@ -1,2 +1,3 @@
 ### mytesting Git and GitHub
-introduction to Git and GitHub
+Introduction to Git and GitHub
+
